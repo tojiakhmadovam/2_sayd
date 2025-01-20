@@ -1,0 +1,59 @@
+.continier{
+    width: 1200px;
+    margin: 0 auto;
+    
+}
+.menu{
+    gap: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.text{
+    display: flex;
+    gap: 40px;
+}
+.radius{
+    text-align: center;
+    font-size: 50px;
+}
+.p{
+    font-size: 20px;
+}
+.pink{
+    text-align: center;
+
+}
+.blue{
+
+}
+.green{
+color: green;
+font-size: 40px;
+}
+.blue h1{
+font-size: 60px;
+}
+img{
+    display: flex;
+}.our{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+.imgeen{
+   align-items: center; 
+   display: flex;
+   gap: 100px;
+}
+.moon{
+    font-size: 40px;
+    color:yellow;
+}
+.figma h1{
+    font-size: 60px;
+}
+.figma p{
+    font-size: 20px;
+}
